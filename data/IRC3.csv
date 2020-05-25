@@ -1,0 +1,202 @@
+country,region,IRC_site,GHSI,stance,phase,risk,stance_phase
+Afghanistan,ASIA,CP,32.3,Response,4 UP,High,Response 4 UP
+Albania,EUROPE,n/a,52.9,,4 UP,High, 4 UP
+Algeria,MIDDLE EAST,n/a,23.6,,4 UP,High, 4 UP
+Andorra,EUROPE,n/a,30.5,,4 UP,High, 4 UP
+Angola,EAST AFRICA,n/a,25.2,,3 UP,Medium, 3 UP
+Antigua and Barbuda,CARIBBEAN,n/a,29,,2 UP,Low-medium, 2 UP
+Argentina,LATIN AMERICA,n/a,58.6,,4 UP,High, 4 UP
+Armenia,MIDDLE EAST,n/a,50.2,,4 UP,High, 4 UP
+Aruba,CARIBBEAN,n/a,0,,3 UP,Medium, 3 UP
+Australia,OCEANIA,n/a,75.5,,4 DOWN,Medium-high, 4 DOWN
+Austria,EUROPE,n/a,58.5,,4 UP,High, 4 UP
+Azerbaijan,MIDDLE EAST,n/a,34.2,,4 UP,High, 4 UP
+Bahamas,CARIBBEAN,n/a,30.6,,3 UP,Medium, 3 UP
+Bahrain,MIDDLE EAST,n/a,39.4,,4 UP,High, 4 UP
+Bangladesh,ASIA,CP,35,Response,4 UP,High,Response 4 UP
+Barbados,CARIBBEAN,n/a,31.9,,2 UP,Low-medium, 2 UP
+Belarus,EUROPE,n/a,35.3,,4 UP,High, 4 UP
+Belgium,EUROPE,Office,61,Readiness,4 DOWN,Medium-high,Readiness 4 DOWN
+Belize,LATIN AMERICA,n/a,31.8,,3 UP,Medium, 3 UP
+Benin,WEST AFRICA,n/a,28.8,,4 UP,High, 4 UP
+Bhutan,ASIA,n/a,40.3,,2 UP,Low-medium, 2 UP
+Bolivia,LATIN AMERICA,n/a,35.8,,4 UP,High, 4 UP
+Bosnia and Herzegovina,EUROPE,CP,42.8,Response,4 UP,High,Response 4 UP
+Botswana,EAST AFRICA,n/a,31.1,,3 UP,Medium, 3 UP
+Brazil,LATIN AMERICA,n/a,59.7,,4 UP,High, 4 UP
+Brunei,ASIA,n/a,32.6,,4 UP,High, 4 UP
+Bulgaria,EUROPE,n/a,45.6,,4 UP,High, 4 UP
+Burkina Faso,WEST AFRICA,CP,30.1,Response,4 UP,High,Response 4 UP
+Burundi,GREAT LAKES,CP,22.8,Readiness,3 UP,Medium,Readiness 3 UP
+Cambodia,ASIA,n/a,39.2,,3 UP,Medium, 3 UP
+Cameroon,WEST AFRICA,CP,34.4,Response,4 UP,High,Response 4 UP
+Canada,NORTH AMERICA,n/a,75.3,,4 UP,High, 4 UP
+Cabo Verde,WEST AFRICA,n/a,29.3,,3 UP,Medium, 3 UP
+Central African Republic,GREAT LAKES,CP,27.3,Response,4 UP,High,Response 4 UP
+Chad,WEST AFRICA,CP,28.8,Response,4 UP,Medium,Response 4 UP
+Chile,LATIN AMERICA,n/a,58.3,,4 UP,High, 4 UP
+China,ASIA,n/a,48.2,,4 UP,High, 4 UP
+Colombia,LATIN AMERICA,CP,44.2,Response,4 UP,High,Response 4 UP
+Comoros,EAST AFRICA,n/a,27.2,,3 UP,Medium, 3 UP
+Congo (Kinshasa),GREAT LAKES,CP,26.5,Response,4 UP,High,Response 4 UP
+Congo (Brazzaville),EAST AFRICA,n/a,23.6,Response,4 UP,High,Response 4 UP
+Cook Islands,OCEANIA,n/a,20.4,,,, 
+Costa Rica,LATIN AMERICA,n/a,45.1,,4 UP,High, 4 UP
+Cote d'Ivoire,WEST AFRICA,CP,35.5,Response,4 UP,High,Response 4 UP
+Croatia,EUROPE,n/a,53.3,,4 UP,High, 4 UP
+Cuba,CARIBBEAN,n/a,35.2,,4 UP,High, 4 UP
+Cyprus,MIDDLE EAST,n/a,43,,4 UP,High, 4 UP
+Czechia,EUROPE,n/a,52,,4 UP,High, 4 UP
+Denmark,EUROPE,n/a,70.4,,4 UP,High, 4 UP
+Djibouti,EAST AFRICA,n/a,23.2,,4 UP,High, 4 UP
+Dominica,CARIBBEAN,n/a,24,,2 UP,Low-medium, 2 UP
+Dominican Republic,CARIBBEAN,n/a,38.3,,4 UP,High, 4 UP
+Ecuador,LATIN AMERICA,n/a,50.1,,4 UP,High, 4 UP
+Egypt,MIDDLE EAST,n/a,39.9,,4 UP,High, 4 UP
+El Salvador,LATIN AMERICA,CP,44.2,Response,4 UP,High,Response 4 UP
+Equatorial Guinea,WEST AFRICA,n/a,16.2,,3 UP,Medium, 3 UP
+Eritrea,EAST AFRICA,n/a,22.4,,4 UP,High, 4 UP
+Estonia,EUROPE,n/a,57,,4 UP,High, 4 UP
+Eswatini,EAST AFRICA,n/a,31.1,,3 UP,Medium, 3 UP
+Ethiopia,EAST AFRICA,CP,40.6,Readiness,3 UP,Medium,Readiness 3 UP
+Fiji,OCEANIA,n/a,25.7,,3 UP,Medium, 3 UP
+Finland,EUROPE,n/a,68.7,,4 UP,High, 4 UP
+France,EUROPE,n/a,68.2,,4 UP,High, 4 UP
+French Guiana,LATIN AMERICA,n/a,0,,3 UP,Medium, 3 UP
+Gabon,WEST AFRICA,n/a,20,,3 UP,Medium, 3 UP
+Gambia,WEST AFRICA,n/a,34.2,,2 UP,Low-medium, 2 UP
+Georgia,EUROPE,n/a,52,,4 UP,High, 4 UP
+Germany,EUROPE,Office,66,Readiness,4 DOWN,Medium-high,Readiness 4 DOWN
+Ghana,WEST AFRICA,n/a,35.5,,4 UP,High, 4 UP
+Greece,EUROPE,CP,53.8,Readiness,4 DOWN,High,Readiness 4 DOWN
+Greenland,EUROPE,n/a,0,,2 UP,Low-medium, 2 UP
+Grenada,CARIBBEAN,n/a,27.5,,2 UP,Low-medium, 2 UP
+Guatemala,LATIN AMERICA,Office,32.7,Response,4 UP,High,Response 4 UP
+Guinea,WEST AFRICA,n/a,32.7,,4 UP,High, 4 UP
+Guinea-Bissau,WEST AFRICA,n/a,20,,3 UP,Medium, 3 UP
+Guyana,LATIN AMERICA,n/a,31.7,,3 UP,Medium, 3 UP
+Haiti,CARIBBEAN,n/a,31.5,,4 UP,High, 4 UP
+Honduras,LATIN AMERICA,CP,27.6,Response,4 UP,High,Response 4 UP
+Hungary,EUROPE,n/a,54,,4 UP,High, 4 UP
+Iceland,EUROPE,n/a,46.3,,4 DOWN,Medium-high, 4 DOWN
+India,ASIA,n/a,46.5,,4 UP,High, 4 UP
+Indonesia,ASIA,n/a,56.6,,4 UP,High, 4 UP
+Iran,ASIA,n/a,37.7,,4 UP,High, 4 UP
+Iraq,MIDDLE EAST,CP,25.8,Response,4 UP,High,Response 4 UP
+Ireland,EUROPE,n/a,59,,4 DOWN,Medium-high, 4 DOWN
+Israel,MIDDLE EAST,n/a,47.3,,4 DOWN,Medium-high, 4 DOWN
+Italy,EUROPE,Office,56.2,Readiness,4 DOWN,High,Readiness 4 DOWN
+Jamaica,CARIBBEAN,n/a,29,,3 UP,Medium, 3 UP
+Japan,ASIA,n/a,59.8,,4 UP,High, 4 UP
+Jordan,MIDDLE EAST,CP,42.1,Readiness,3 UP,Medium,Readiness 3 UP
+Kazakhstan,ASIA,n/a,40.7,,4 UP,High, 4 UP
+Kenya,EAST AFRICA,CP,47.1,Response,4 UP,Medium,Response 4 UP
+Kiribati,OCEANIA,n/a,19.2,,,, 
+"Korea, South",ASIA,n/a,70.2,,4 UP,High, 4 UP
+Kosovo,EUROPE,n/a,0,,4 UP,High, 4 UP
+Kuwait,MIDDLE EAST,n/a,46.1,,4 UP,High, 4 UP
+Kyrgyzstan,ASIA,n/a,49.3,,4 UP,High, 4 UP
+Laos,ASIA,n/a,43.1,,2 UP,Low-medium, 2 UP
+Latvia,EUROPE,n/a,62.9,,4 UP,High, 4 UP
+Lebanon,MIDDLE EAST,CP,43.1,Response,4 UP,High,Response 4 UP
+Lesotho,EAST AFRICA,n/a,30.2,,2 UP,Low-medium, 2 UP
+Liberia,WEST AFRICA,CP,35.1,Readiness,3 UP,Medium,Readiness 3 UP
+Libya,MIDDLE EAST,CP,25.7,Response,4 UP,High,Response 4 UP
+Liechtenstein,EUROPE,n/a,43.5,,2 UP,Low-medium, 2 UP
+Lithuania,EUROPE,n/a,55,,4 UP,High, 4 UP
+Luxembourg,EUROPE,n/a,43.8,,4 DOWN,Medium-high, 4 DOWN
+Madagascar,EAST AFRICA,n/a,40.1,,3 UP,Medium, 3 UP
+Malawi,EAST AFRICA,n/a,28,,4 UP,High, 4 UP
+Malaysia,ASIA,CP,62.2,Readiness,3 DOWN,High,Readiness 3 DOWN
+Maldives,ASIA,n/a,33.8,,2 UP,Low-medium, 2 UP
+Mali,WEST AFRICA,CP,29,Response,4 UP,High,Response 4 UP
+Malta,EUROPE,n/a,37.3,,4 UP,High, 4 UP
+Marshall Islands,OCEANIA,n/a,18.2,,,, 
+Mauritania,WEST AFRICA,n/a,27.5,,3 UP,Medium, 3 UP
+Mauritius,EAST AFRICA,n/a,34.9,,3 UP,Medium, 3 UP
+Mayotte,EAST AFRICA,n/a,0,,2 UP,Low-medium, 2 UP
+Mexico,LATIN AMERICA,CP,57.6,Response,4 UP,High,Response 4 UP
+Micronesia,OCEANIA,n/a,32.8,,,, 
+Monaco,EUROPE,n/a,32.7,,2 UP,Low-medium, 2 UP
+Mongolia,ASIA,n/a,49.5,,3 UP,Medium, 3 UP
+Montenegro,EUROPE,n/a,43.7,,4 UP,High, 4 UP
+Morocco,MIDDLE EAST,n/a,43.7,,4 UP,High, 4 UP
+Mozambique,EAST AFRICA,n/a,28.1,,4 UP,High, 4 UP
+Burma,ASIA,CP,43.4,Readiness,3 UP,Medium,Readiness 3 UP
+Namibia,EAST AFRICA,n/a,35.6,,2 UP,Low-medium, 2 UP
+Nauru,OCEANIA,n/a,20.8,,,, 
+Nepal,ASIA,n/a,35.1,,2 UP,Low-medium, 2 UP
+Netherlands,EUROPE,n/a,75.6,,4 UP,High, 4 UP
+New Zealand,OCEANIA,n/a,54,,4 DOWN,Medium-high, 4 DOWN
+Nicaragua,LATIN AMERICA,n/a,43.1,,2 UP,Low-medium, 2 UP
+Niger,WEST AFRICA,CP,32.2,Response,4 UP,High,Response 4 UP
+Nigeria,WEST AFRICA,CP,37.8,Response,4 UP,High,Response 4 UP
+Niue,OCEANIA,n/a,20.5,,,, 
+North Korea,ASIA,n/a,17.5,,,, 
+North Macedonia,EUROPE,n/a,39.1,,4 UP,High, 4 UP
+Norway,EUROPE,n/a,64.6,,4 DOWN,Medium-high, 4 DOWN
+Oman,MIDDLE EAST,n/a,43.1,,4 UP,High, 4 UP
+Pakistan,ASIA,CP,35.5,Response,4 UP,High,Response 4 UP
+Palau,OCEANIA,n/a,21.9,,2 UP,Low-medium, 2 UP
+Palestine,MIDDLE EAST,n/a,0,,4 UP,High, 4 UP
+Panama,LATIN AMERICA,n/a,43.7,,4 UP,High, 4 UP
+Papua New Guinea,OCEANIA,n/a,27.8,,3 UP,Medium, 3 UP
+Paraguay,LATIN AMERICA,n/a,35.7,,4 UP,High, 4 UP
+Peru,LATIN AMERICA,n/a,49.2,,4 UP,High, 4 UP
+Philippines,ASIA,n/a,47.6,,4 UP,High, 4 UP
+Poland,EUROPE,n/a,55.4,,4 UP,High, 4 UP
+Portugal,EUROPE,n/a,60.3,,4 UP,High, 4 UP
+Qatar,MIDDLE EAST,n/a,41.2,,4 UP,High, 4 UP
+Moldova,EUROPE,n/a,42.9,,4 UP,High, 4 UP
+Romania,EUROPE,n/a,45.8,,4 UP,High, 4 UP
+Russia,EUROPE,n/a,44.3,,4 UP,High, 4 UP
+Rwanda,GREAT LAKES,n/a,34.2,,4 UP,High, 4 UP
+Saint Kitts and Nevis,CARIBBEAN,n/a,0,,2 UP,Low-medium, 2 UP
+Saint Lucia,CARIBBEAN,n/a,0,,3 UP,Medium, 3 UP
+Saint Vincent and the Grenadines,CARIBBEAN,n/a,0,,4 UP,High, 4 UP
+Samoa,OCEANIA,n/a,26.4,,,, 
+San Marino,EUROPE,n/a,31.1,,4 UP,High, 4 UP
+Sao Tome and Principe,WEST AFRICA,n/a,17.7,,3 UP,Medium, 3 UP
+Saudi Arabia,MIDDLE EAST,n/a,49.3,,4 UP,High, 4 UP
+Senegal,WEST AFRICA,Office,37.9,Response,4 UP,High,Response 4 UP
+Serbia,EUROPE,CP,52.3,Readiness,4 DOWN,High,Readiness 4 DOWN
+Seychelles,WEST AFRICA,n/a,31.9,,3 UP,Medium, 3 UP
+Sierra Leone,WEST AFRICA,CP,38.2,Readiness,3 UP,Medium,Readiness 3 UP
+Singapore,ASIA,n/a,58.7,,4 UP,High, 4 UP
+Slovakia,EUROPE,n/a,47.9,,4 UP,High, 4 UP
+Slovenia,EUROPE,n/a,67.2,,4 DOWN,Medium-high, 4 DOWN
+Solomon Islands,OCEANIA,n/a,20.7,,,, 
+Somalia,EAST AFRICA,CP,16.6,Response,4 UP,High,Response 4 UP
+South Africa,EAST AFRICA,n/a,54.8,,4 UP,High, 4 UP
+South Sudan,EAST AFRICA,CP,21.7,Response,4 UP,High,Response 4 UP
+Spain,EUROPE,n/a,65.9,,4 UP,High, 4 UP
+Sri Lanka,ASIA,n/a,33.9,,4 UP,High, 4 UP
+Sudan,EAST AFRICA,CP,26.2,Response,4 UP,High,Response 4 UP
+Suriname,LATIN AMERICA,n/a,36.5,,2 UP,Low-medium, 2 UP
+Sweden,EUROPE,Office,72.1,Response,4 UP,High,Response 4 UP
+Switzerland,EUROPE,Office,67,Readiness,4 DOWN,Medium-high,Readiness 4 DOWN
+Syria,MIDDLE EAST,CP,19.9,Response,4 UP,High,Response 4 UP
+Tajikistan,ASIA,n/a,32.3,,4 UP,High, 4 UP
+Tanzania,GREAT LAKES,CP,36.4,Response,4 UP,High,Response 4 UP
+Thailand,ASIA,CP,73.2,Readiness,3 DOWN,Medium-high,Readiness 3 DOWN
+Timor-Leste,ASIA,n/a,26,,3 UP,Medium, 3 UP
+Togo,WEST AFRICA,n/a,32.5,,4 UP,High, 4 UP
+Tonga,OCEANIA,n/a,25.1,,,, 
+Trinidad and Tobago,CARIBBEAN,n/a,36.6,,3 UP,Medium, 3 UP
+Tunisia,MIDDLE EAST,CP,33.7,Response,4 UP,High,Response 4 UP
+Turkey,MIDDLE EAST,n/a,52.4,,4 UP,High, 4 UP
+Turkmenistan,ASIA,n/a,31.8,,,, 
+Tuvalu,OCEANIA,n/a,21.6,,,, 
+Uganda,EAST AFRICA,CP,44.3,Readiness,3 UP,Medium,Readiness 3 UP
+United Kingdom,EUROPE,Office,77.9,Readiness,4 DOWN,High,Readiness 4 DOWN
+Ukraine,EUROPE,n/a,38,,4 UP,High, 4 UP
+United Arab Emirates,MIDDLE EAST,n/a,46.7,,4 UP,High, 4 UP
+Uruguay,LATIN AMERICA,n/a,41.3,,4 UP,High, 4 UP
+US,NORTH AMERICA,Office,83.5,Response,4 UP,High,Response 4 UP
+Uzbekistan,ASIA,n/a,34.3,,4 UP,High, 4 UP
+Vanuatu,OCEANIA,n/a,26.1,,,, 
+Venezuela,LATIN AMERICA,CP,23,Response,4 UP,High,Response 4 UP
+Vietnam,ASIA,n/a,49.1,,3 UP,Medium, 3 UP
+Yemen,EAST AFRICA,CP,18.5,Response,4 UP,High,Response 4 UP
+Zambia,EAST AFRICA,n/a,28.7,,4 UP,High, 4 UP
+Zimbabwe,EAST AFRICA,CP,38.2,Preparedness,2 UP,Low-medium,Preparedness 2 UP
