@@ -223,23 +223,27 @@ irc_countries <- c("Afghanistan",
 
 
 #join IRC data to this data #
-final_dat <- left_join(case_dat, read.csv("data/IRC3.csv")) %>% 
+final_dat <- left_join(tests_sum, read.csv("data/IRC3.csv")) %>% 
 #  left_join(read.csv("data/IRC3.csv",na.strings="n/a")) %>% 
   select(region,
          country,
          IRC_site,
          GHSI,
+         date,
          cases,
          deaths,
-         tests,
+         total_tests,
          testposrate,
          tests_per_million,
+         fatality_ratio,
+         population,
          stance,
          phase,
-         risk) %>% 
+         risk,
+         stance_phase) %>% 
   arrange(desc(cases))
 
 #save as excel file
 #install.packages("writexl")
 library(writexl)
-write_xlsx(x = final_dat, path = "C:/Users/maryd/Documents/R datasets/Coronavirus3/oxford_xl.xlsx", col_names = TRUE)
+write_xlsx(x = final_dat, path = "C:/Users/maryd/Documents/R datasets/Coronavirus3/testssum_xl.xlsx", col_names = TRUE)

@@ -1,7 +1,7 @@
 library(tidyverse) 
 library(scales)
 
-#get data from our world in data
+#get test data from our world in data
 dat <- read.csv((paste0("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")))
 
 #all countries cases, deaths, testing - still need to summarize
@@ -178,6 +178,40 @@ plots.png.paths <- list.files(plots.dir.path, pattern=".png", full.names = TRUE)
 file.copy(from=plots.png.paths, to="C:/Users/maryd/Documents/R datasets/coronavirus3/plots")
 
 ######### need to figure out better way to save all ###########
+
+#middle east
+all_me <- c("Turkey",
+            "Saudi Arabia",
+            "Qatar",
+            "United Arab Emirates",
+            "Kuwait",
+            "Israel",
+            "Egypt",
+            "Bahrain",
+            "Algeria",
+            "Morocco",
+            "Oman",
+            "Armenia",
+            "Iraq",
+            "Azerbaijan",
+            "Lebanon",
+            "Tunisia",
+            "Cyprus",
+            "Jordan",
+            "Libya",
+            "Syria")
+
+ggplot(curve_dat %>%  filter(country %in% all_me)) +
+  geom_col(mapping = aes(x = date, y = new_cases, fill = "red")) +
+  facet_wrap(~country, scales = "free_y") 
+
+#plot cumulative cases
+ggplot(case_dat %>%  filter(country %in% all_me)) +
+  geom_point(mapping = aes(x = date, y = cases, color = country))
+
+ggplot(tests_dat %>% filter(country %in% all_me)) +
+  geom_col(mapping = aes(x = date, y = testposrate, fill = country)) +
+  facet_wrap(~country, scales = "free_y")
 
 #ALL IRC country programs - currently excludes offices
 irc_countries <- c("Afghanistan",
